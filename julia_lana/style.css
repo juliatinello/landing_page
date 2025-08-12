@@ -1,3 +1,23 @@
 header {
     background-color: #a064a0;
 }
+
+#produtos {
+    background-color: #6474a0;
+    height: 550px;
+}
+
+#parceiros {
+    background-color: #b969b3;
+    height: 500px;
+}
+
+#historia {
+    background-color: #64a098;
+    height: 450px;
+}
+
+#cadastro {
+    background-color: #6db1b9;
+    height: 400px;
+}
