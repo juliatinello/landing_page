@@ -11,25 +11,39 @@ header {
     background-color: #52c4d8;
 }
 
-#produtos {
+footer {
+    height: auto;
+    background-color: beige;
+}
+
+#brasil {
     background-color: #6474a0;
-    height: 500px;
-    padding-top: 30px;
+    height: auto;
+    padding: 30px;
 }
 
-#parceiros {
+#eua {
     background-color: #b969b3;
-    height: 500px;
+    height: auto;
+    padding: 30px;
 }
 
-#historia {
+#italia {
     background-color: #64a098;
-    height: 500px;
+    height: auto;
+    padding: 30px;
 }
 
-#cadastro {
+#china {
     background-color: #6db1b9;
-    height: 500px;
+    height: auto;
+    padding: 30px;
+}
+
+#produtos {
+    background-color: #b969b3;
+    height: auto;
+    padding: 30px;
 }
 
 .logotipo{
@@ -84,4 +98,38 @@ header {
     /* border: solid #771480; */
     text-align: justify;
     margin-top: 20px;
+}
+
+.fotocopia {
+    height: 300px;
+    width: 300px;
+    padding-top: 30px;
+}
+
+.rodape {
+    height: 150px;
+    width: 500px;
+    padding: 15px;
+}
+
+.card {
+    border: solid 2px red;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imagemcard {
+    width: 280px;
+}
+
+.produtinho {
+    color: black;
+    font-size: medium;
+    font-weight: bold; 
+}
+
+.preco {
+    color: black;
+    font-size: larger;
+    font-weight: bold;
 }
